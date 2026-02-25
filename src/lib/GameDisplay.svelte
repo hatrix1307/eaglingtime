@@ -7,7 +7,7 @@
 
 	const pathJarMinecraft = '/files/client_1.2.5.jar';
 	const urlDownloadMinecraft =
-		'https://piston-data.mojang.com/v1/objects/4a2fac7504182a97dcbcd7560c6392d7c8139928/client.jar';
+		'https://piston-data.mojang.com/v1/objects/e3f78cd16f9eb9a52307ed96ebec64241cc5b32d/client.jar';
 	const pathJarLibs = `/app/lwjgl/lwjgl-2.9.3.jar:/app/lwjgl/lwjgl_util-2.9.3.jar:${pathJarMinecraft}`;
 
 	let loading: HTMLDivElement;
